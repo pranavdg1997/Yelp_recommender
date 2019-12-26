@@ -21,7 +21,7 @@ Overall, we predict the star rating for user-business combination not already pr
 
 ## Secondary Objective
 Yelp is a useful service to the users, but can we utilize the prediction model of the primary objective for a more business oriented gain as well? Our prediction model utilizes not only the data of previous user-business visit history, but also user and business attributes. If we are able to have a quantitative model interpretation of how much each factor affects the prediction, we can utilize this value to guide busiiness startegy. Thus overall, we are not inly providing a service to for users to be able to enjoy the best services, but also a service to business owners who now know exactly what factors influence his nice/poort star rating and by how much.
-We utilize algorithms like LIME and SHAP to implemnent this. For example, if we are to filter down the predictions for only one particular Pizza join, we will aggregate the feature impact values provided by LIME for this subset of data and the business attributes with positive
+We utilize algorithms like LIME and SHAP to implemnent this. For example, if we are to filter down the predictions for only one particular Pizza join, we will aggregate the feature impact values provided by LIME for this subset of data and the business attributes with negative overall impact on star rating are the ones the business owner should focus on.
 
 
 
