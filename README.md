@@ -4,7 +4,7 @@
 Are you sick of seeing primitive recommendation like these: 
 ![alt text][show]
 
-[logo]: images/shoe.jpg
+[logo]: /images/shoe.jpg
 
 To explain in short, the idea behind this project is to build  a more effective recommendation system which goes beyond the status quo collaborative filtering based approach and utilize all possible data for recommendation. 
 
