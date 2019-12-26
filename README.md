@@ -1,5 +1,5 @@
 
-# Yelp Reccomendation
+# Yelp Recommendation
 Are you sick of seeing primitive recommendation like these
 ![Typical recommendations](/images/shoe.jpg)
 The goal of this repository is to create general purpose recommendation engine based on the Yelp dataset. Why bother with Tabular data based ML tasks when you can do some Deep Learning, you ask? Well, the setup of the project does eventually involve a Deep Learning model. The overall setup attempts to clear suitable bottlenecks when using Deep Learning models when you have dense high dimensional data as well as categorical/slightly continuous tabular data.
