@@ -10,7 +10,7 @@ Are you sick of seeing primitive recommendation like these:
 To explain in short, the idea behind this project is to build  a more effective recommendation system which goes beyond the status quo collaborative filtering based approach and utilize all possible data for recommendation. 
 
 
-This project started out as an academic project for "Search" course taught by Prof. Xiaozhang Liu at Indiana university, Bloomington. The primary objective was to build a recommendation system using the yelp dataset, and recommend new businesses to users. Although the course is over, the project continuous in terms of improving the framework, code robustness as well as overall model performance. Readers are encourgaged to leave 
+This project started out as an academic project for "Search" course taught by Prof. Xiaozhang Liu at Indiana university, Bloomington. The primary objective was to build a recommendation system using the yelp dataset, and recommend new businesses to users. Although the course is over, the project continuous in terms of improving the framework, code robustness as well as overall model performance. Readers are encourgaged to leave suggestions/criticisms at pgujarat@iu.edu
 
 ## The Yelp dataset
 The Yelp dataset(https://www.yelp.com/dataset/challenge) is a collection of customer reviews, tips, checkins, item images as well as corresponding info on the users and businesses associated with the reviews. The businesses are although predominantly restuarants in the US, they also include salons, stores, spas and other business variety. This data can be used to recommend business/restuarant to a user on the basis of various criteria, for example, customers' history of visits and immediate geographical viscinity. 
